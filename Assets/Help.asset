@@ -9,8 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 531eb0d32c9084b49a47cb69ed0f5a2b, type: 3}
-  m_Name: Starting State
+  m_Name: Help
   m_EditorClassIdentifier: 
-  storyText: If I want to make it in this industry I have to Dev everyday from now
-    on! Game Dev for minimum 6 hours a day and draw for a minimum of 2 hours a day!
+  storyText: 
   nextStates: []

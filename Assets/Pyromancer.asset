@@ -11,5 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 531eb0d32c9084b49a47cb69ed0f5a2b, type: 3}
   m_Name: Pyromancer
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: In a ruthless, unforgiving world filled with animals, humans. and beings
+    with power. You find yourself as a pyromancer at the age of 9 you don't know much
+    about the world around you. Other people of society consider pyromancers are destructive
+    and "balls of flame." You are no different especially being of a lower class.
+    You are viewed as a non-potiental, poor, and weak child. But your flames brighter
+    than most and almost as hot as the nearest star. They just don't know it,
   nextStates: []

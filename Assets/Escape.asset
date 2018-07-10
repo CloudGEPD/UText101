@@ -9,14 +9,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 531eb0d32c9084b49a47cb69ed0f5a2b, type: 3}
-  m_Name: Hunt
+  m_Name: Escape
   m_EditorClassIdentifier: 
-  storyText: 'Dialouge "They''re escaping get them!" The null tasks force are going
-    to hunt you down and kill you what do you do?
-
-    Options
-
-    1.) Stand your ground and fight them off.
-
-    2.) Run away and hope for the best.'
+  storyText: 
   nextStates: []

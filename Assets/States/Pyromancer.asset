@@ -16,6 +16,7 @@ MonoBehaviour:
     about the world around you. Other people of society consider pyromancers are destructive
     and "balls of flame." You are no different especially being of a lower class.
     You are viewed as a non-potiental, poor, and weak child. But your flames brighter
-    than most and almost as hot as the nearest star. They just don't know it,
+    than most and almost as hot as the nearest star. They just don't know it, Press
+    1 to continue or q to quit.
   nextStates:
   - {fileID: 11400000, guid: 47f6ef5c77938cc4da3a0e2ed2cfaff2, type: 2}

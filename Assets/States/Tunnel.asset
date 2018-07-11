@@ -11,5 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 531eb0d32c9084b49a47cb69ed0f5a2b, type: 3}
   m_Name: Tunnel
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Your family made it to the tunnel that you use to explore as a child.
+    Suddenly you guys crash and a drawing you use to always keep with you as a child
+    dropped out of the trunk of the car, what do you do?
+
+
+    1.) Pick it up
+
+    2.) Keep up with your parents so you wont lose them'
+  nextStates:
+  - {fileID: 11400000, guid: e645188b8d0201a409a73f798cf76683, type: 2}

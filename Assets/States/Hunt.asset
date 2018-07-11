@@ -19,4 +19,6 @@ MonoBehaviour:
     1.) Stand your ground and fight them off.
 
     2.) Run away and hope for the best.'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 956382309f78bf74989906251361d297, type: 2}
+  - {fileID: 11400000, guid: 14613c66ac39e4c4b8b327022482bc00, type: 2}

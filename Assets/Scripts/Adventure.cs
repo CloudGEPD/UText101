@@ -9,8 +9,7 @@ public class Adventure : MonoBehaviour
     [SerializeField] State startingState;
     [SerializeField] Text textbox;
    
-    
-    State state;
+     State state;
 
 	// Use this for initialization
 	void Start ()
@@ -24,7 +23,7 @@ public class Adventure : MonoBehaviour
 	void Update ()
     {
         ManageState();
-	}
+    }
 
     private void ManageState()
     {

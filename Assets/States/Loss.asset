@@ -20,4 +20,5 @@ MonoBehaviour:
     1.) Stay hidden
 
     2.) Scream and unleash your powers!'
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 38950a31897e788438ed7503650c14b0, type: 2}

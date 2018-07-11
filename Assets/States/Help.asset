@@ -11,5 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 531eb0d32c9084b49a47cb69ed0f5a2b, type: 3}
   m_Name: Help
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Your parents die in front of you, the null has killed them. Do you scream
+    hoping for help or try to fight them?
+
+
+    1.) Scream
+
+    2.) Fight'
+  nextStates:
+  - {fileID: 11400000, guid: 351c6e95f0b381949bb949a25e620db6, type: 2}

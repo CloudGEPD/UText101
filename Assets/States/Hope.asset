@@ -13,4 +13,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   storyText: After escaping the null and even with your parents killed, you set off
     on a journey unlike no other for Utopia, your last hope for a decent living.
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 24fbedab15158604788a8f74a0bd417d, type: 2}

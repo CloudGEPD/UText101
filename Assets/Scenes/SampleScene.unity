@@ -277,7 +277,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e642ae542ed5494fab7963a966931da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startingState: {fileID: 11400000, guid: 1a7ad1b50f981b045b94c79784a2cb62, type: 2}
+  startingState: {fileID: 11400000, guid: 32c8e5f55f5166745a01ba1be4eec77a, type: 2}
   textbox: {fileID: 201439092}
 --- !u!4 &256817167
 Transform:

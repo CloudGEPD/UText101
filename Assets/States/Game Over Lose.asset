@@ -9,9 +9,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 531eb0d32c9084b49a47cb69ed0f5a2b, type: 3}
-  m_Name: Game Over
+  m_Name: Game Over Lose
   m_EditorClassIdentifier: 
-  storyText: 'Would you like to change your fate?
+  storyText: 'You have died to the Null.
+
+    Would you like to change your fate?
 
     Optiions
 

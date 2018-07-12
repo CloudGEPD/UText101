@@ -15,4 +15,4 @@ MonoBehaviour:
     and the enemy choose to leave before it gets too dangerous but you're fireborn
     so you will survive.
   nextStates:
-  - {fileID: 11400000, guid: 24fbedab15158604788a8f74a0bd417d, type: 2}
+  - {fileID: 11400000, guid: 3b719dc0f01ed7d44ab244ee4d9a2f15, type: 2}

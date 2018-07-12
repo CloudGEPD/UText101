@@ -20,3 +20,4 @@ MonoBehaviour:
     2.) Fight'
   nextStates:
   - {fileID: 11400000, guid: 351c6e95f0b381949bb949a25e620db6, type: 2}
+  - {fileID: 11400000, guid: 351c6e95f0b381949bb949a25e620db6, type: 2}

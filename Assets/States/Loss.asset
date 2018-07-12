@@ -22,3 +22,4 @@ MonoBehaviour:
     2.) Scream and unleash your powers!'
   nextStates:
   - {fileID: 11400000, guid: 38950a31897e788438ed7503650c14b0, type: 2}
+  - {fileID: 11400000, guid: 24fbedab15158604788a8f74a0bd417d, type: 2}

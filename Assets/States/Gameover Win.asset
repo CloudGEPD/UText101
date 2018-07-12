@@ -9,10 +9,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 531eb0d32c9084b49a47cb69ed0f5a2b, type: 3}
-  m_Name: Hide
+  m_Name: Gameover Win
   m_EditorClassIdentifier: 
-  storyText: "The null appears from the otherside unexpectedly and your parents tell
-    you to hide before they loctate you. \n\n1.) Stay with your parents\n2.) Hide"
+  storyText: 
   nextStates:
-  - {fileID: 11400000, guid: 43c7f962947e5584fbe3eb8a37a6fabf, type: 2}
-  - {fileID: 11400000, guid: 43c7f962947e5584fbe3eb8a37a6fabf, type: 2}
+  - {fileID: 11400000, guid: 32c8e5f55f5166745a01ba1be4eec77a, type: 2}

@@ -21,3 +21,4 @@ MonoBehaviour:
     2.) Keep up with your parents so you wont lose them'
   nextStates:
   - {fileID: 11400000, guid: e645188b8d0201a409a73f798cf76683, type: 2}
+  - {fileID: 11400000, guid: e645188b8d0201a409a73f798cf76683, type: 2}

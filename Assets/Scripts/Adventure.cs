@@ -2,20 +2,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 
 public class Adventure : MonoBehaviour
 {
     [SerializeField] State startingState;
-    [SerializeField] Text textbox;
-   
+    [SerializeField] TextMeshProUGUI textMesh;
      State state;
 
 	// Use this for initialization
 	void Start ()
     {
         state = startingState;
-        textbox.text = state.GetStateStory();
+        textMesh.text = state.GetStateStory();
        
 	}
 	
@@ -23,25 +22,26 @@ public class Adventure : MonoBehaviour
 	void Update ()
     {
         ManageState();
+    
     }
 
     private void ManageState()
     {
         var nextStates = state.GetNextStates();
-        if(Input.GetKeyDown(KeyCode.Alpha1))
+        for(int index = 0; index < nextStates.Length; index++ )
+        {
+            if (Input.GetKeyDown(KeyCode.Alpha1 + index))
+            {
+                state = nextStates[index];
+            }
+        }
+       if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             state = nextStates[0];
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha2))
-        {
-            state = nextStates[1];
-        }
-       // else if (Input.GetKeyDown(KeyCode.Alpha3))
-       // {
-        //    state = nextStates[2];
-       // }
-        textbox.text = state.GetStateStory();
+       textMesh.text = state.GetStateStory();
     }
 
+    
    
 }
